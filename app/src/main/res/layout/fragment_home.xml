@@ -1,0 +1,207 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.royex.inventoryapps.Home">
+<RelativeLayout
+    android:id="@+id/mainlayout"
+    android:layout_width="match_parent"
+    android:layout_height="450dp">
+    <RelativeLayout
+        android:id="@+id/relative1"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:background="#3498DB"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:id="@+id/inventory"
+            android:layout_height="wrap_content"
+            android:src="@drawable/inventorypic"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/inventory"
+            android:text="Inventory"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="45dp"
+            android:textSize="15dp"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relative2"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="15dp"
+        android:background="#64A808"
+        android:layout_alignTop="@+id/relative1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp">
+
+        <ImageView
+            android:id="@+id/pricechecker"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/pricecheckpic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pricechecker"
+            android:layout_marginLeft="45dp"
+            android:text="Price Checker"
+            android:textColor="#ffffff"
+            android:textSize="13dp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_below="@id/relative1"
+        android:id="@+id/relative3"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:background="#E67E22"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:id="@+id/invoices"
+            android:layout_height="wrap_content"
+            android:src="@drawable/invoicespic"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/invoices"
+            android:text="Invoices"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="55dp"
+            android:textSize="15dp"/>
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@id/relative2"
+        android:id="@+id/relative4"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="15dp"
+        android:background="#FA0404"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp">
+
+        <ImageView
+            android:id="@+id/report"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/reportpic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/report"
+            android:layout_marginLeft="55dp"
+            android:text="Report"
+            android:textColor="#ffffff"
+            android:textSize="15dp" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@id/relative3"
+        android:id="@+id/relative5"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="10dp"
+        android:background="#C20B29"
+        android:layout_marginTop="15dp">
+
+        <ImageView
+            android:id="@+id/reportmaroon"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/reportpic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reportmaroon"
+            android:layout_marginLeft="55dp"
+            android:text="Report"
+            android:textColor="#ffffff"
+            android:textSize="15dp" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@id/relative4"
+        android:id="@+id/relative6"
+        android:layout_width="165dp"
+        android:layout_height="130dp"
+        android:layout_marginLeft="15dp"
+        android:background="#7D3C98"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp">
+
+        <ImageView
+            android:id="@+id/trip"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/dayclosepic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/trip"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/tripbanner"
+            android:textColor="#ffffff"
+            android:textSize="15dp" />
+
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom = "true"
+        android:scaleType="fitEnd"
+        android:gravity="bottom|center_horizontal"
+        android:src="@drawable/footer"></ImageView>
+
+
+
+</FrameLayout>

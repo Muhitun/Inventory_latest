@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/view"
+        android:layout_alignParentStart="true">
+        ">
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="first" />
+
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="second" />
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/tv3"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="third" />
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv4"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:text="fourth"
+            android:textAlignment="center" />
+
+        <LinearLayout
+            android:id="@+id/line"
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:paddingTop="5dp"
+            android:paddingStart="20dp"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/tv5"
+                android:paddingTop="5dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/editsign"
+                android:textAlignment="center" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="1dp"
+            android:layout_height="match_parent">
+
+            <View style="@style/Divider" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        style="@style/Divider"
+        android:id="@+id/view">
+
+    </View>
+
+</RelativeLayout>

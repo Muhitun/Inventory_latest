@@ -1,0 +1,111 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.royex.inventoryapps.InvoiceWithImage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/layouttop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:paddingTop="20dp"
+                android:gravity="center"
+                android:text="Invoice"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="50dp"
+            android:paddingEnd="50dp"
+            android:paddingTop="10dp">
+
+            <!--<ImageView-->
+                <!--android:layout_width="160dp"-->
+                <!--android:layout_height="150dp"-->
+                <!--android:background="#f7eded"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:src="@drawable/barcodescanner" />-->
+
+            <SurfaceView
+                android:layout_width="match_parent"
+                android:layout_height="250px"
+                android:id="@+id/camera_view"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_below="@id/camera_view"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:id="@+id/show"
+                android:textAlignment="center"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:paddingTop="30dp"
+            android:paddingStart="170dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/or" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:paddingTop="40dp"
+            android:paddingStart="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/searchcustomer"
+                android:layout_width="160dp"
+                android:layout_height="40dp"
+                android:background="#3498DB"
+                android:text="SEARCH CUSTOMER"
+                android:textAlignment="center"
+                android:textColor="#ffffff"/>
+
+            <Button
+                android:layout_toRightOf="@id/searchcustomer"
+                android:layout_width="140dp"
+                android:layout_marginLeft="20dp"
+                android:layout_height="40dp"
+                android:background="#ff0000"
+                android:text="NEXT"
+                android:textColor="#ffffff"/>
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom = "true"
+        android:scaleType="fitEnd"
+        android:gravity="bottom|center_horizontal"
+        android:src="@drawable/footer"></ImageView>
+
+</FrameLayout>

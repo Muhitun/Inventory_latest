@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/a363b7170bea35b2358b85b2ed3e7b38a04f3c9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7057b89327260d70337f4913f933c78bb56ecd69">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_20df21304f829b74fd9d4b93ab1d9a1f865993eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/0ddd95bb63afc294cfc70f6cbf418674481506e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="611fe78f6c12c8a0deeb2ad8dea4a5a247570339">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_5237246f51169012a02cdbca85b4ffb898c79d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/33d7a5804bb081a42698c613751b15bd73fc2975/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da7ad43ce7be1d12ca7a76eff6355459f4db77d6">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_638754f70d45fcb6b64a41e2be5988a9d1cc9cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/d16ce1deb28b100dc58afc54f18b401f8489323f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c83d8acfa2967e42e7507803cd5bc34c898f7e8a">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_7f6f45adb0c8c0aa54e8696ef82ffd668884ad0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/6aa818674afa3b05a72280092ac1c4cdfc9b9834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f21fe29ab841f25f937bdb518862fc8d967a49d">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_27fc55097856e9bfbc4e6f5efe42ea76f703cad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/28129ecc2d63346d3c2384006e9f53eaec94c938/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_aa9f9d27fde3d92e058b6de2108f01c814629b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/95ff83b62d8478febdd4cdef83b3a97c60575d8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac97d7aa6a93902b6b0471fabf6525970d21f56">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_8b3612824f0a0111a3822e3eff46d9dd917d747c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/4f8c6365892f0ee1f49f5585aaff235cd35f54dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_3bcaa98c2fc686d8897e86bc3408e9f98a66dc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/c2613f05263638ae8f3082d015b131db4844b655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="652f51abc06a99243ca9399c13af2c6c0769c277">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_be30771556f21a458ed1b64b5df3434b259e68c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/5db45a0e3fc970082b5acaa1ff665c7d3374802c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_83f726bc86ed8bb199e7dbd51daaae5cb7115553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/6d1960619f327c09c9bf04980d910f35dbe81a1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95955cf3055a3384ba1bfc30c6da82b92df74e0a">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_c50682f528506422b222f4d0fc999dd394a04345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/b18f90e8ff67cbfc5c2dfb8dc6bdeb93d9ddc287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="363fb5cab8e3b60b403373e02b505ee3e47d1c91">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_c243b41433c7aeac3efce66a9925e7668d5b0c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/0779dadd664d96d048e03680d52f7582cb574e76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_9edbc8a6105d3f2a5af8b95a1cfd2611fdb01b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/37fc1a7a39460037a8db213992f02a071fad81a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ae2522527c30bca3c57d1fa4617b01ff5e1de79">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_38ef3b304c350bb6a203a875727fac2d2193e333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/5405e80d6dae95c765604d01f2d425eb97839c7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_74b4027e8f58ba2e0fd3c98b320a999dc062dcba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/b1b284f24b6f3ff975d8829a9eaf2bda624c7b3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fafc89bde9dd0da1ee66bf903c129fa9a656285b">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_22d20733ec688088475988acaab346ac6e4f5931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/df345921b5b76d33127c15bfbd905206030e697a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_947d6e8492e0dfe583672463f797f24dc87a3363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/a3e6a00e36d9bdb62a4cdb3e304bb257ea8dbf09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc4ae725967274969c55950ec75a677847a73510">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_f2c24cdc7dbc8f37570957e740e9a1581d31fd9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/d51dbe504d040f4375ee21a4dd613a995bf13886/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_7bdb51a11b892306515cb00800ec06a9c2e920e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/15f6f6f1315a5081c5c40e89cadb7000143da0cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_3d0d49553fcada435adbe5685f32a556f845fe84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/f4964e8cc64ba46ba2f548059ff0c8f097ffdc18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ab3ca52f409de1922c790aaca1be80dea626934">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_483c3b08365b49af0e60728c0543a18ca6ddae55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/1f1ae95a3662f09477e2735d484cbb3e1e037d9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_661f58568800067570f97b0dc9c00ac4d7c3bf3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/aa1887e46c869bb5a95e72f13fcf35aa234d8df9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b132c56e382e8b63e43a0ab0110ddb064fc624d8">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_272a2d58de3526a48ae1e41f2c167dac7fb0fde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/3b24fab45f9005133d51b63cc568a19c59a53236/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_0232d6f8cc4bc4804f7c5733dd4968367b93e3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/6435a893d42014d43f800b3587b83ffcbdc246ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1fbaee850d07f3fee6af2085239f6d1cdbd6818">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_84db31c2cb5c8fdc6595acdf5895af1ba197a4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/5ae566e317d7551918691e263a14bd286a5a9f87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_8d704f4041bbc138a4cae008a7addb4df8eb60c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/7d3e698b911883a3b41c26744460bf462ea945d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/royex/AndroidStudioProjects/InventoryApps/app/build/intermediates/pre-dexed/debug/classes_c265ff95b740b823ac06eb6e5b201a6adee2ae12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/fec21675611de1e83dd34041a31a875a9502135e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_e27b7a0252072f7ec174782daf4ecfb3f479bf07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/547e74d4328f030abd9b7c645641c3c91b352149/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76f1e5943cb1fc1a841880ed72af680cba8a046c">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_3d8ff01098473b6bfb6a8d0e5a10738aa5b5d00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/2115c9800972ff49b7ae2d168a19c87bd66ceb6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_7017edd206ae547cbdaa9201e624c0b167c6f9c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/331c7db7a40138f6b561be904a011bf39da4892a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb238c479cbda3db7cef9a99c11e5fd4851445fe">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_28225be456f3dbe8fa5d336b97991854a9bc5fcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/core-3.2.1_033349f8401abee8fb311d422b6f65a3b7762526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/be2de2f9618bc69217d41e5bcac219a00e0d81e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_4f536ce081252341246877819d1b92848d6a6afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/3c480688d452915c1fc8b10fb6752e675bf2da89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ce552453962f4f725f7c206725c4c5b32f1d6c0">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_928103e065b7a50bcf7fb5c38b7dd2ab44b41366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/c3e46cde955aa5e55e44d377e57298cc168bea66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_3d611f3e4e34a7db41d49eb9ee72a5ea648f9925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/e2e10c0962491a5eadd733f7e26053f5e471b9e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_7ae5c87d50d1d5e6ebb2852dc8133be646b5ed3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/738842e8bd9fd2b2beb3c14d160e5fe5cea8ba69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_194f5d815c6e32229bfaaf8adae74727ff879ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/5bbd1d4cd5b3810b3cdfa9bfdfc3cbaa03e5243c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20771821f96ac4854553c9b6d10a3937909f40a4">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_53e890356c05afe802de82ad84a1d19704d85d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/3e78bf3199f8efdeb9ba04d75ed3616b724a88b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e5edad98e4113971e515a8d9fe89d6f95235fa9">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_0d3d890599be8c9b4d822c2aee076e98d520cded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/930b6aadc3142b0910067bf50165ed1b1dd43f96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_ef0f13023f5715c28102b3485d4541a22c84eb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/6a90c83fa05005ff1eb3929d8c2a340cffb93a61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0403a6c955272a546a25ae4c085f5fb728de3a42">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_903a556bef5889fa325bb7be16649439f379bf4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/026323edf1fb3ac8a904d0f67b4b565efe6937ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_9893ad87347ad8479450df1fc84f9387a674af15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/8932ba9316639fb17d7f46218957918b6cab74b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_2d1d985483b4ee9e8a721b0f333242d1213c424f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/0e9679991b1c5f14bf01c073f94448af41c39fa9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_70720e94e793d3eca8d45721daf3e893471d19b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/a662287f2c99865c72fba47c1387b8041fdc3d2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/royex/AndroidStudioProjects/InventoryApps/app/build/intermediates/pre-dexed/debug/classes_dcbca512d753d240785a00e6ec8fcfb26b84585c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/6d90b981a0516c3997705224cc1c2f55c8f6c79e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1dfef62219fda6d848b8a24dad7318ea52cd476d">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_4b86252fd61c3e17ec49159d0819c36a4c70c485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/ce5e37c757a8cd0d74c5fb341da8014b9a474d75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_5c8ac206d28acaa2d7a33de966f200155067da6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/8f33f04e632a99c96e0b936d746ab0ee5bb8530c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_7b1b934cb352e66d5a59ac78bcadd0b052743033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/0ae4bc77d7e51a7ab62e75720df283e15e5b0727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f70a8005cc2f6d37e4840f34901eeba3a41de5de">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_931324c7cc6e5831ca77c2a7a7e1ad653fceaa73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/141e6cd992997b40c7940a76ae1a856388898c6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_0b7195a813b01ff1ab59c4f1ae7514a2f821ebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/3ad93bd4cc6f9cddb64a1495f1e2503793b85f3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c147bfc12797852c00de33231b3d63b0b6f49375">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_dd2c2a51c1fd40266f9b7e91298f925e717b6fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/ce7624470a5a0088365f933ddcff59501d6f54e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bbded8fa779bbe1097a9fbce22de5ccffb20bd60">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_dd74bd3ee4d2852b952674bad6c2522075d8a9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/5dcd71b55372308e39fa9cb829b785cbdc83a99f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/royex/AndroidStudioProjects/InventoryApps/app/build/intermediates/pre-dexed/debug/classes_154ca646b28749cd70e6a1d8490de306875b2104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/4d84b23421e4dbad02fa26e03299c7c470295d92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_cfd5d3ca15dd4064d7a0d191c040d34f5e1d8334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/381a84e49591a3e21abf4e6192e36342e2232096/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc1683c11baff90e41b9a6bd2d0861a35b2c5735">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_478ea734a30b9ba7cea370c31aed7960bf637cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/92311b44a3b78286f2b6fa8f097b132f62bf6760/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c56893f4714457bd4ad9f511e2731eba53f7d751">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_0d58b7203749e2e36e9cac420953bd0505845ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/14fa7fb8fcdbf8346e8ff3fdc24260ac2d3f93a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae475f56eae94a6614db527474af493d0a421271">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_a473620b1251b149813028f2eaeadd958c228696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/royex/.android/build-cache/e2e043f13f81f2366124f9c562418ec4a5c5e7f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/royex/Desktop/Intentory final/Inventory latest/app/build/intermediates/pre-dexed/debug/classes_95c0790f1bdf74e83421f8b6e7694d62e667a140.jar" />
+    </item>
+
+</items>

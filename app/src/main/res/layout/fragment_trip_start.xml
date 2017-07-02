@@ -1,0 +1,157 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.royex.inventoryapps.TripStart">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rightsign"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/imageView9"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageView9"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="5dp"
+            android:text="Inventory:"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:id="@+id/imageView10"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="190dp"
+            android:layout_marginLeft="15dp"
+            android:text="Products:50"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:id="@+id/imageView11"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="190dp"
+            android:text="In stock:100"
+            android:textSize="15dp"
+            android:layout_toRightOf="@id/imageView10"
+            />
+
+        <TextView
+            android:id="@+id/imageView12"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="190dp"
+            android:text="Sale stock:100"
+            android:textSize="15dp"
+            android:layout_toRightOf="@id/imageView11"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView13"
+            android:src="@drawable/rightsign"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="250dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:layout_toRightOf="@id/imageView13"
+            android:text="Invoices:"
+            android:layout_marginLeft="5dp"
+            android:textSize="20dp"/>
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rightsign"
+            android:layout_marginTop="300dp"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView14"
+            android:layout_marginTop="300dp"
+            android:layout_toRightOf="@id/imageView15"
+            android:layout_marginLeft="5dp"
+            android:text="User access:"
+            android:textSize="20dp"/>
+        
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="60dp"
+            android:id="@+id/button3"
+            android:layout_marginTop="370dp"
+            android:layout_marginLeft="120dp"
+            android:text="START TRIP"
+            android:background="#ff0000"
+            android:textColor="#ffffff"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/button3"
+            android:layout_alignParentBottom = "true"
+            android:scaleType="fitEnd"
+            android:gravity="bottom|center_horizontal"
+            android:src="@drawable/footer"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="110dp"
+            android:text="DOWNLOAD" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/button1"
+            android:src="@drawable/rightsign" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/lastdownload"
+            android:layout_height="wrap_content"
+            android:text="(Last download: 11:30 AM)"
+            android:layout_below="@id/button1"
+            android:paddingStart="100dp"
+            android:paddingTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download Again"
+            android:textColor="#ff0000"
+            android:textSize="17dp"
+            android:layout_below="@+id/lastdownload"
+            android:paddingStart="120dp"/>
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>
